@@ -1,3 +1,11 @@
+# Custom configs
+experiments/*
+!experiments/.gitkeep
+inference/input/*
+inference/results/*
+!inference/input/.gitkeep
+!inference/results/.gitkeep
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
